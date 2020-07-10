@@ -59,3 +59,64 @@ C:\Users\Can\Desktop\Piton Ar-ge ve Yazılım Evi\Piton Ar-ge ve Yazılım Evi\b
 C:\Users\Can\Desktop\Piton Ar-ge ve Yazılım Evi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Memory.dll
 C:\Users\Can\Desktop\Piton Ar-ge ve Yazılım Evi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Numerics.Vectors.dll
 C:\Users\Can\Desktop\Piton Ar-ge ve Yazılım Evi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Piton Ar-ge ve Yazılım Evi.dll.config
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Piton Ar-ge ve Yazılım Evi.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Piton Ar-ge ve Yazılım Evi.pdb
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\csc.exe
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\csc.exe.config
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\csc.rsp
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\csi.exe
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\csi.exe.config
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\csi.rsp
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Buffers.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Memory.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Numerics.Vectors.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\vbc.exe
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\vbc.exe.config
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\vbc.rsp
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\VBCSCompiler.exe
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\EntityFramework.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\EntityFramework.SqlServer.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.Configuration.ConfigurationBuilders.Base.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Helpers.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Mvc.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Razor.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Webpages.Deployment.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Webpages.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Webpages.Razor.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\EntityFramework.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\EntityFramework.SqlServer.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.Configuration.ConfigurationBuilders.Base.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\Microsoft.Configuration.ConfigurationBuilders.UserSecrets.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Razor.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Webpages.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Webpages.Deployment.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Webpages.Razor.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Helpers.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\bin\System.Web.Mvc.xml
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\obj\Debug\Piton Ar-ge ve Yazılım Evi.csprojAssemblyReference.cache
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\obj\Debug\Piton Ar-ge ve Yazılım Evi.csproj.CoreCompileInputs.cache
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\obj\Debug\Piton Ar-ge ve Yazılım Evi.csproj.CopyComplete
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\obj\Debug\Piton Ar-ge ve Yazılım Evi.dll
+C:\Users\Can\Desktop\PitonArgeveYazilimEvi\Piton Ar-ge ve Yazılım Evi\obj\Debug\Piton Ar-ge ve Yazılım Evi.pdb

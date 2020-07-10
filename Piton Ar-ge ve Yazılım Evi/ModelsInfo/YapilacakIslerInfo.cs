@@ -13,7 +13,5 @@ namespace Piton_Ar_ge_ve_Yazılım_Evi.ModelsInfo
         public string BitisTarihi { get; set; }
         public int Deleted { get; set; }
         public int Drum { get; set; }
-
-        public string ay { get; set; }
     }
 }

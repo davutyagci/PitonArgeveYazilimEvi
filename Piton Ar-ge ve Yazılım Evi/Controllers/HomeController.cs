@@ -100,7 +100,7 @@ namespace Piton_Ar_ge_ve_Yazılım_Evi.Controllers
 
             DateTime a = new DateTime();
             DateTime b = new DateTime();
-            string d = "";            
+            string d = "";
 
             if (hafta == null && btn == null)
             {
@@ -110,14 +110,24 @@ namespace Piton_Ar_ge_ve_Yazılım_Evi.Controllers
                 d = ciCurr.Calendar.GetWeekOfYear(DateTime.Now, CalendarWeekRule.FirstFourDayWeek, DayOfWeek.Monday).ToString();
             }
             else
-            {               
+            {
                 if (btn == "1")
                 {
                     d = (Convert.ToInt32(hafta) - 1).ToString();
+
+                    if (d == "0")
+                    {
+                        d = "53";
+                    }
                 }
                 else if (btn == "2")
                 {
                     d = (Convert.ToInt32(hafta) + 1).ToString();
+
+                    if (d == "54")
+                    {
+                        d = "1";
+                    }
                 }
 
                 DateTimeFormatInfo dfi = DateTimeFormatInfo.CurrentInfo;
