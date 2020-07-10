@@ -1,0 +1,22 @@
+﻿
+
+
+<table class="table table-bordered table-striped mb-0">
+    <thead>
+        <tr>
+            <th>Yapılacak İş</th>
+            <th>Başlangıç Tarihi</th>
+            <th>Bitiş Tarihi</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in ViewBag.YapilacakIslerGunlukList)
+        {
+            <tr id="row_" + @item.Id>
+                <td>@item.YapilacakIs</td>
+                <td>@item.BaslangicTarih</td>
+                <td>@item.BitisTarihi</td>
+            </tr>
+        }
+    </tbody>
+</table>

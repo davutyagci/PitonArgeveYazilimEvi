@@ -1,0 +1,37 @@
+﻿
+
+<div class="card-header">
+    <div class="row">
+        <div class="col-md-2">
+            <button onclick="OncekiAy()" id="oncekiay" class="btn btn-primary" type="button" value="1" style="font-size:small; font-weight:bold;"><i class="fa fa-arrow-left" aria-hidden="true"></i></button>
+        </div>
+        <div class="col-md-8">
+            <center><h5 class="card-title m-0">@Session["ayAdi"] Ayı İşleri</h5></center>
+        </div>
+        <div class="col-md-2">
+            <button onclick="SonrakiAy()" id="sonrakiay" class="btn btn-primary" type="button" value="2" style="font-size:small; font-weight:bold; float:right;"><i class="fa fa-arrow-right" aria-hidden="true"></i></button>
+        </div>
+    </div>
+</div>
+<div class="card-body">
+    <input type="hidden" id="ay" value=@Session["ay"] />
+    <table class="table table-bordered table-striped mb-0">
+        <thead>
+            <tr>
+                <th>Yapılacak İş</th>
+                <th>Başlangıç Tarihi</th>
+                <th>Bitiş Tarihi</th>
+            </tr>
+        </thead>
+        <tbody>
+            @foreach (var item in ViewBag.YapilacakIslerAylikList)
+            {
+                <tr id="row_" + @item.Id>
+                    <td>@item.YapilacakIs</td>
+                    <td>@item.BaslangicTarih</td>
+                    <td>@item.BitisTarihi</td>
+                </tr>
+            }
+        </tbody>
+    </table>
+</div>

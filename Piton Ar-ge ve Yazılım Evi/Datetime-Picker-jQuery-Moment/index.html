@@ -1,0 +1,43 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link href="css/datetimepicker.css" rel="stylesheet" type="text/css" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <script src="https://code.jquery.com/jquery-1.12.4.min.js" integrity="sha384-nvAa0+6Qg9clwYCGGPpDQLVpLNn0fRaROjHqs13t4Ggj3Ez50XnGQqc/r8MhnRDZ" crossorigin="anonymous"></script>
+    <script type="text/javascript" src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.22.0/moment-with-locales.min.js"></script>
+    <script type="text/javascript" src="js/datetimepicker.js"></script>
+    <link href="https://www.jqueryscript.net/css/jquerysctipttop.css" rel="stylesheet" type="text/css">
+    <style>
+
+        body {
+            background-color: beige;
+            direction: ltr;
+            font-family: 'Roboto';
+        }
+
+        h1 {
+            margin-top: 150px;
+            text-align: center;
+        }
+    </style>
+    <script type="text/javascript">
+        $(document).ready(function () {
+            $('#picker').dateTimePicker();
+            $('#picker-no-time').dateTimePicker({ showTime: false, dateFormat: 'DD/MM/YYYY' });
+        })
+    </script>
+    <title>Beautiful Datetime Picker Demo</title>
+</head>
+<body>
+    <h1>Beautiful Datetime Picker Demo</h1>
+    <div style="width: 250px; margin: 50px auto;">
+        <div id="picker"> </div>
+        <input type="hidden" id="result" value="" />
+    </div>
+    <div style="width: 250px; margin: 50px auto;">
+        <div id="picker-no-time"></div>
+        <input type="hidden" id="result2" value="" />
+    </div>
+</body>
+</html>

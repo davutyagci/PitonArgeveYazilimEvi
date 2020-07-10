@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="Model.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="YapilacakIsler">
+    <Key>
+      <PropertyRef Name="Id" />
+    </Key>
+    <Property Name="Id" Type="uniqueidentifier" Nullable="false" />
+    <Property Name="YapilacakIs" Type="nvarchar(max)" />
+    <Property Name="BaslangicTarih" Type="datetime" />
+    <Property Name="BitisTarihi" Type="datetime" />
+    <Property Name="Deleted" Type="int" />
+    <Property Name="Drum" Type="int" />
+  </EntityType>
+  <EntityContainer Name="ModelStoreContainer">
+    <EntitySet Name="YapilacakIsler" EntityType="Self.YapilacakIsler" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>
